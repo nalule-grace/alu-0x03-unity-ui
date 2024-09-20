@@ -150,3 +150,21 @@ Received Import Request.
   path: Assets/menu.unity
   artifactKey: Guid(d565d9cdce61adc4fa50a97c3c163f36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/menu.unity using Guid(d565d9cdce61adc4fa50a97c3c163f36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '602b7717a563330f8774d9bc3a8931ff') in 0.029867 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1591.488560 seconds.
+  path: Assets/menu.unity
+  artifactKey: Guid(d565d9cdce61adc4fa50a97c3c163f36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/menu.unity using Guid(d565d9cdce61adc4fa50a97c3c163f36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c1ab87132bdb672367a944d4c7ae172') in 0.011637 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 157.690731 seconds.
+  path: Assets/Scripts/MainMenu.cs
+  artifactKey: Guid(b22e59fd1db91f24b8964b0431232456) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MainMenu.cs using Guid(b22e59fd1db91f24b8964b0431232456) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '313ac09c902e46c322182d0800a15bce') in 0.113010 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 339.168938 seconds.
+  path: Assets/Scripts/MainMenu.cs
+  artifactKey: Guid(b22e59fd1db91f24b8964b0431232456) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MainMenu.cs using Guid(b22e59fd1db91f24b8964b0431232456) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc8fbc5b37550084ea98bd0c85ea7f68') in 0.026417 seconds 

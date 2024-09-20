@@ -168,3 +168,27 @@ Received Import Request.
   path: Assets/Scripts/MainMenu.cs
   artifactKey: Guid(b22e59fd1db91f24b8964b0431232456) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scripts/MainMenu.cs using Guid(b22e59fd1db91f24b8964b0431232456) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc8fbc5b37550084ea98bd0c85ea7f68') in 0.026417 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 240.899134 seconds.
+  path: Assets/MainMenu.cs
+  artifactKey: Guid(b7e5f2f5868ce074b849cafee2bde42f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MainMenu.cs using Guid(b7e5f2f5868ce074b849cafee2bde42f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '660dc4fce35fa82c1a5bce31dac5c9cf') in 0.008699 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.931958 seconds.
+  path: Assets/MainMenu.cs
+  artifactKey: Guid(b7e5f2f5868ce074b849cafee2bde42f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MainMenu.cs using Guid(b7e5f2f5868ce074b849cafee2bde42f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36a251d6b18a1cb561561308c9cba34b') in 0.049396 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 53.747083 seconds.
+  path: Packages/com.unity.services.core/Editor/Core/UiHelpers/UXML/AccessTokenError.uxml
+  artifactKey: Guid(9bbe9fb6e9537684cac89a4e82cf3d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.services.core/Editor/Core/UiHelpers/UXML/AccessTokenError.uxml using Guid(9bbe9fb6e9537684cac89a4e82cf3d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '881d24b4bf639c31750a596702c9d503') in 0.340716 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.677349 seconds.
+  path: Packages/com.unity.ads/Editor/DevX/StyleSheets/AdsService.uss
+  artifactKey: Guid(a451e7337cff44f4fafbff3d0a3dab16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ads/Editor/DevX/StyleSheets/AdsService.uss using Guid(a451e7337cff44f4fafbff3d0a3dab16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e877e1f36d600cdc8c721bd3b430a185') in 0.072449 seconds 

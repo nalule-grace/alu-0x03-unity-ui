@@ -162,3 +162,10 @@ Received Import Request.
   path: Assets/menu.unity
   artifactKey: Guid(d565d9cdce61adc4fa50a97c3c163f36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/menu.unity using Guid(d565d9cdce61adc4fa50a97c3c163f36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18d918add827cfd4d54404af66b91f64') in 0.013263 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 521.092757 seconds.
+  path: Assets/menu.unity
+  artifactKey: Guid(d565d9cdce61adc4fa50a97c3c163f36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/menu.unity using Guid(d565d9cdce61adc4fa50a97c3c163f36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fea3baaeaf8073b7accb86d0e1b980f') in 0.042530 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
